@@ -1,3 +1,3 @@
 # Altium Extraparts
 
-A couple of extra parts for Altium.
+A couple of extra things I use for Altium.
